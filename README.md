@@ -4,7 +4,7 @@ Experience hassle-free control over your system's security with this Windows Def
 
 STEPS TO USE THIS TOOL:
 1. Disable your antivirus fisrt
-2. Open as Administrator
+2. Right click on dControl and open as Administrator
 3. Click on Disable Windows Defender
 4. BOOM..!!
 5. Check status by clicking on "Open Security Center"
